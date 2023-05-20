@@ -31,7 +31,7 @@ function _0x5005() {
     '96kZJEHG',
     '452ZUHCYn',
     'signInAnonymously',
-    'AIzaSyBxZhMLXl8c8SbtzMuM7rC72GF3oKJJjP0',
+    'AIzaSyDlUZB18GcJPcmogMhLuBZUTzSKas-gt60',
     '1978277DEODIR',
     'Sorry\x20voting\x20was\x20not\x20successful\x20please\x20try\x20again\x20later',
     'votestars.appspot.com',
