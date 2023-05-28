@@ -6,7 +6,11 @@ body {
   margin: 0;
   padding: 0;
   display: block;
-
+}
+#choose {
+  margin: 0;
+  padding: 0;
+  display: none;
 }
 #fbp {
   margin: 0;
@@ -91,7 +95,9 @@ header hr {
   border-style: solid;
   border-width: 1px;
   border-color: black;
-
+}
+video {
+  background-color: black;
 }
 #voter {
   border-style: solid;
@@ -99,7 +105,17 @@ header hr {
   border-color: black;
   width: 97%;
   margin-top: 20px;
-
+}
+#vote {
+  background-color: blue;
+  color: white;
+  font-weight: bolder;
+  width: 70%;
+  height: 25px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  margin-bottom: 10px;
 }
 #vote2 {
   background-color: blue;
@@ -175,16 +191,15 @@ header hr {
   position: relative;
   top: 5px;
   box-shadow: 1px 1px 1px gray;
-
 }
 #choose {
   background-color: white;
   width: 80%;
-  height: 50vh;
-  border-radius: 5px;
-  border-style: dashed;
+  height: 30vh;
+  border-radius: 20px;
+  border-style: solid;
   border-width: 1px;
-  border-color: rgba(165, 49, 0, 0.517);
+  border-color: black;
   position: fixed;
   top: 40vh;
   left: 10vw;
